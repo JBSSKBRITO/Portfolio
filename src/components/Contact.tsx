@@ -33,7 +33,7 @@ export default function Contact() {
         className="mx-auto mb-10 max-w-lg text-navy-600 dark:text-mist-200/75"
       >
         I'm always open to discussing new opportunities, collaborations, or a good conversation
-        about health tech and networking.
+        about health tech And networking .
       </motion.p>
 
       <motion.div
